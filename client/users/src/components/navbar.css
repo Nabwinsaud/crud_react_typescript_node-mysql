@@ -1,0 +1,25 @@
+.navbar {
+  border-bottom: 1px solid gray;
+  border-radius: 6px;
+}
+
+header {
+  display: flex;
+  justify-content: space-around;
+  /* padding: 10px; */
+}
+
+.link {
+  text-decoration: none;
+  /* padding: 6px 0; */
+  color: black;
+}
+
+.active {
+  color: rgb(0, 128, 113);
+  border-bottom-width: 2px;
+}
+
+/* .normal {
+  color: initial;
+} */
